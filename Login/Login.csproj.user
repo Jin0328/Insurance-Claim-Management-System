@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="ClaimForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmMessage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmTuesday.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmClaimDetail(Hardcoded).cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmClaimDetail2(Hardcoded).cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmFMamount(Hardcoded).cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmFMclaim.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Users\frmAdmin2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmProfile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmStatus(Hardcoded).cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmUserDetail(Hardcoded).cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmViewClaim.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Users\frmViewClients.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Users\frmViewCM.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Users\frmViewFM.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ladingPage\LandingPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LpAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LpCM.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LpFM.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Main.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Roundbtn.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="RoundPanel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="signup\Signup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

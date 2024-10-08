@@ -1,0 +1,13 @@
+database tables:
+UserAccount
+	Username (returns string username)
+	Password (returns string password)
+	Account_type (returns number)
+
+Message
+	IMID (Internal Message ID, returns int number)
+	Message_Username (returns string)
+	Recipients (returns string)
+	Sender (returns string)
+	Mbody (returns string)
+	Mtitle (returns string)
