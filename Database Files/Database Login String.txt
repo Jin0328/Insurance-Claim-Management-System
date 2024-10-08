@@ -1,4 +1,4 @@
-string connectionString = @"Data Source=SE361.database.windows.net;Initial Catalog=se361;User ID=Bulldogs;Password="Sup3rs3cur3;
+string connectionString = @"Data Source=SE361.database.windows.net;Initial Catalog=se361;User ID=;Password=;
 //table for login ingo is "UserAccount"
 //table for messages is "Message"
 //insert table name you want to query below 
