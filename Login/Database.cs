@@ -26,7 +26,7 @@ namespace Login
     public class Blob
     {
         private readonly string storageAccount_ = "databasefiles24";
-        private readonly string accessKey_ = "4KjdhtcBFLFwt/ubWnCxNA1B3inqavdzjL/kPwy1F3TqU8k56FAiZEk5SOEzAQU8NbxFTALGvwC6+AStz0go4w==";
+        private readonly string accessKey_ = "";
         private readonly BlobServiceClient blobServiceClient_;
         // var blobUri_;
         BlobContainerClient containerClient_;
@@ -136,7 +136,7 @@ namespace Login
 
         public Database()
         {
-            connectionString_ = @"Data Source=SE361.database.windows.net;Initial Catalog=se361;User ID=Bulldogs;Password=Sup3rs3cur3";
+            connectionString_ = @"Data Source=SE361.database.windows.net;Initial Catalog=se361;User ID=;Password=;
             tableName_ = "UserAccount";
             connection_ = new SqlConnection(connectionString_);
             connection_.Open();
